@@ -31,8 +31,8 @@ MA.Public Administration
 
 ### * <a href="https://github.com/lumeenabdul/Hotel-Insights-Power-BI.git"> Hospitality Management </a>
 
-### * <a href="https://github.com/lumeenabdul/Hotel-Insights-Power-BI.git"> HR Analytics  </a>
-### *<a href="https://github.com/lumeenabdul/Hotel-Insights-Power-BI.git"> JS Bank  </a> 
+### * <a href="https://github.com/lumeenabdul/HR-analytics-PowerBI.git)"> HR Analytics  </a>
+### *<a href="https://github.com/lumeenabdul/JS-Bank-dashboard.git"> JS Bank  </a> 
  
 
 ---
