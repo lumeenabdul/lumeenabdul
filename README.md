@@ -29,7 +29,7 @@ MA.Public Administration
 
 ## Projects
 
-### * <a href="https://github.com/lumeenabdul/Hotel-Insights-Power-BI.git"> Hospitality Management </a>
+### * <a href="https://github.com/lumeenabdul/Hotel-Insights-Power-BI.git"> Hospitality Domain </a>
 
 ### * <a href="https://github.com/lumeenabdul/HR-analytics-PowerBI.git"> HR Analytics  </a>
 ### *<a href="https://github.com/lumeenabdul/JS-Bank-dashboard.git"> JS Bank  </a> 
