@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Passionate about turning data into actionable insights. Proficient in creating interactive dashboards, data visualizations, and data models to support business decisions. Skilled in Python, SQL, Power BI, and Excel with a strong focus on solving problems and delivering impactful solutions. Eager to learn and grow in dynamic environments. Open to collaborating on projects and expanding expertise in data analytics and beyond.
 ## Skills
 
-* Python   * Advanced Excel  * SQL       * Power BI  * Django
+* Python   * Advanced Excel  * SQL       * Power BI  * Django *HTML *CSS *Angular 
 ## Education 
 Bsc.Physics   
 
