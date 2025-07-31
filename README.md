@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm LUMEENA MK
-## Aspiring Data Analyst 
-Passionate about turning data into actionable insights. Proficient in creating interactive dashboards, data visualizations, and data models to support business decisions. Skilled in Python, SQL, Power BI, and Excel with a strong focus on solving problems and delivering impactful solutions. Eager to learn and grow in dynamic environments. Open to collaborating on projects and expanding expertise in data analytics and beyond.
-## Skills
+## Aspiring SAP Analytics Cloud (SAC) Consultant and Data Analyst
+ 
+Motivated and detail-oriented aspiring data analyst with hands-on training in SAP Analytics Cloud (SAC), including story building, data modeling, and dashboard development. Proficient in Python, SQL, Power BI, and Excel, with a strong foundation in data analysis, visualization, and business reporting. Skilled in creating interactive dashboards that solve real-world problems. Eager to apply analytical skills, support data-driven decision-making, and grow within a dynamic, collaborative environment.
 
-* Python   * Advanced Excel  * SQL       * Power BI  * Django *HTML *CSS *Angular 
+
+
+## Skills
+* SAP Analylics Cloud 
+* Power BI  *Advanced Excel  *SQL  
+* Python  *Django  *HTML  *CSS  *Angular
 ## Education 
 Bsc.Physics   
 
@@ -45,7 +50,8 @@ MA.Public Administration
 
 ## Contact me:
 
-lumeenamk@gmail.com 
+lumeenamk@gmail.com
+
 https://www.linkedin.com/in/lumeenamk
 
 
