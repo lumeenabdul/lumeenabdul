@@ -35,10 +35,10 @@ MA.Public Administration
 ## Projects
 
 ### * <a href="https://github.com/lumeenabdul/SAP-SAC-Project.git"> SAP SAC Sales Data </a>
-### * <a href="https://github.com/lumeenabdul/Hotel-Insights-Power-BI.git"> Hospitality Domain </a>
+### * <a href="https://github.com/lumeenabdul/Hotel-Insights-Power-BI.git"> Power BI - Hospitality Domain </a>
 
-### * <a href="https://github.com/lumeenabdul/HR-analytics-PowerBI.git"> HR Analytics  </a>
-### *<a href="https://github.com/lumeenabdul/JS-Bank-dashboard.git"> JS Bank  </a> 
+### * <a href="https://github.com/lumeenabdul/HR-analytics-PowerBI.git">  Power BI - HR Analytics  </a>
+### *<a href="https://github.com/lumeenabdul/JS-Bank-dashboard.git">  Power BI - JS Bank  </a> 
  
 
 ---
